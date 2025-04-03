@@ -8,7 +8,7 @@ Each concept in React is illustrated through a dedicated project. The repository
 ### 📁 Folder Structure
 - **React Hooks** - Demonstrated using a **Password Generator** project.
 - **Custom Hooks** - Illustrated with a **Currency Converter** project.
-- **Context API** - Explained through a dedicated project.
+- **Context API** - Explained through a dedicated project.("miniContext" and "themeswitcher").
 - **React Router DOM** - Demonstrated with a project using routing.
 - **Redux Toolkit** - Illustrated through a project implementing state management.
 
